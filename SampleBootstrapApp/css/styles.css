@@ -1,0 +1,4 @@
+#myChart {
+    width: 100%;
+    height: 100vh; /* vh is a viewport unit that represents 1% of the viewport height. 100vh is the full height of the viewport. */
+  }
